@@ -2,6 +2,10 @@
 
 This is a 2D Shooter game made with GFX OpenGL framework.
 
+# Demo
+
+https://youtu.be/L_efCtAfeGQ
+
 # Description
 
 The game is simple, the goal being to accumulate as high a score as possible.
